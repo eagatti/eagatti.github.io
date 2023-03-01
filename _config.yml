@@ -52,9 +52,9 @@ description: "An Archive of My Work"
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "Evan A. Gatti"
-authorname: "Professor of Art History, Elon University"
-sitelogo: 
+author: "IDAH@IU"
+authorname : "Institute for Digital Arts and Humanities"
+sitelogo: "site_logo.jpg"
 
 # What year did you start up this community project?
 sitedate: 2023
