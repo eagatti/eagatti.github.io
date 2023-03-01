@@ -4,7 +4,7 @@
 # THEME. Leave Lines 4-6 alone.
 #---------------------
 remote_theme: kalanicraig/community-archive-jekyll@0.1.0
-repository: 'idahatiu/idahatiu.github.io' # change this to your repository name
+repository: 'eagatti/idahatiu.github.io' # change this to your repository name
 
 ##############################################
 # WHAT IS ALL THIS STUFF?
@@ -53,19 +53,19 @@ description: "An Archive of My Work"
 # These credits show up in the includes/_footer.html
 # Main author of the website.
 author: "Evan A. Gatti"
-authorname : "Professor of Art History, Elon University"
+authorname: "Professor of Art History, Elon University"
 sitelogo: 
 
 # What year did you start up this community project?
-sitedate : 2023
+sitedate: 2023
 
 # Other community social media. Leave blank if you don't have these.
-email : "egatti [at] elon.edu"
-website : 
-twitter : "evangatti"
-github : 
-facebook : 
-instagram : 
+email: "egatti [at] elon.edu"
+website: 
+twitter: "evangatti"
+github: 
+facebook: 
+instagram: 
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
