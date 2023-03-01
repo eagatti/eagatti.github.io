@@ -42,7 +42,7 @@ repository: 'idahatiu/idahatiu.github.io' # change this to your repository name
 #---------------------
 
 # Title of your website
-title: "Evan Gatti Test"
+title: "Evan A. Gatti"
 
 # Subtitle of your website. Leave blank if you want to.
 subtitle: "An Archive of My Work"
@@ -54,10 +54,10 @@ description: "An Archive of My Work"
 # Main author of the website.
 author: "Evan A. Gatti"
 authorname : "Professor of Art History, Elon University"
-sitelogo: "site_logo.jpg"
+sitelogo: 
 
 # What year did you start up this community project?
-sitedate : 2022
+sitedate : 2023
 
 # Other community social media. Leave blank if you don't have these.
 email : "egatti [at] elon.edu"
