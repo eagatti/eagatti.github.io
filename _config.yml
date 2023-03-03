@@ -96,9 +96,9 @@ fontchoice: quattrocento # A modern sans-serif font with classic serif accents
 #colorchoice: tan # Tan and deep brown with flame-bright orange
 #colorchoice: teal # Bright teal with bright orange-yellow accents
 #colorchoice: marigold # Near-black with marigold yellow
-colorchoice: red # Black, crimson and grey
+#colorchoice: red # Black, crimson and grey
 #colorchoice: lavenderred # Purple-grey with orange-red
-#colorchoice: dusk # Dusky purple and olive green
+colorchoice: dusk # Dusky purple and olive green
 
 ##############################################
 # ORGANIZING YOUR COLLECTION
