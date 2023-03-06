@@ -42,13 +42,13 @@ repository: 'eagatti.github.io' # change this to your repository name
 #---------------------
 
 # Title of your website
-title: "Videntes"
+title: "Evan A. Gatti, PhD"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "A Multispectral Imaging Collective"
+subtitle: "Professor of Art History, Elon University"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "Multispectral Imaging"
+description: "Academic Website"
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
@@ -94,9 +94,9 @@ fontchoice: quattrocento # A modern sans-serif font with classic serif accents
 #colorchoice: navy # Navy with bright teal and grey
 #colorchoice: leafgreen # Leafy green and medium brown
 #colorchoice: tan # Tan and deep brown with flame-bright orange
-colorchoice: teal # Bright teal with bright orange-yellow accents
+#colorchoice: teal # Bright teal with bright orange-yellow accents
 #colorchoice: marigold # Near-black with marigold yellow
-#colorchoice: red # Black, crimson and grey
+colorchoice: red # Black, crimson and grey
 #colorchoice: lavenderred # Purple-grey with orange-red
 #colorchoice: dusk # Dusky purple and olive green
 
