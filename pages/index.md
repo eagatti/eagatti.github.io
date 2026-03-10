@@ -2,14 +2,19 @@
 title: IDAH Community Archiving Template
 layout: homepage
 permalink: /
-pullquote: "Archives could and should go beyond the logics of possession, whether of physical or digital records, to prioritize human centered-values that position record creators not only as subjects, but as active agents in their own liberation."
-quoteattribution: "Marisa Hicks-Alcaraz"
+pullquote: "“I have come to believe that the whole world is an enigma, a harmless enigma that is made terrible by our own mad attempt to interpret it as though it had an underlying truth."
+quoteattribution: "Umberto Eco, Foucault’s Pendulum"
 ---
+<p>Evan A. Gatti is professor of art history at Elon University and coordinator of <a href="https://www.elon.edu/u/academics/arts-and-sciences/history-geography/about-our-department/art-history/">the art history program</a> in the <a href="https://www.elon.edu/u/academics/arts-and-sciences/history-geography/">Department of History and Geography.</a></p>
+<p>At Elon, Gatti teaches courses in Ancient, Medieval, and Premodern Art, as well as courses on the history of museums and art collections, and a course on the historical connections between the arts, humanities, and the sciences. Gatti's courses often engage works of art from the Elon Art Collections, for which she is serving as the interim director. Gatti teaches Art History Methodologies and Senior Seminar in Art History in rotation with Dr. Kirstin Ringelberg and co-leads a short-term study abroad in Florence, Italy, &quot;Bodies of Knowledge: Healthcare and the History of Art,&quot; with Dr. Paula DiBiasio, PhD, DPT.</p>
 
-The [IDAH@IU team](https://idah.indiana.edu) often gets requests to support archiving projects. This repository provides a starting point, a template for using simple Github Pages, done in partnership with
-- [ImaginX en Movimiento (IXeM)](https://www.instagram.com/ixemcollective/?hl=en) co-founded by Dr. Marisa Hicks-Alcaraz, the [Center for Research on Race, Ethnicity and Society](https://crres.indiana.edu), and the [Asian Culture Center](https://asianresource.indiana.edu) at Indiana University Bloomington
-- Dr. Jazma Sutton and the [Remembering Freedom](https://longtownhistory.github.io/) descendant community in Greenville and Longtown, Ohio, for the community-archive project that inspired this template.
+<p>Gatti has published broadly in medieval studies, editing two interdisciplinary volumes on the medieval bishop, <a href="http://www.brepols.net/Pages/ShowProduct.aspx?prod_id=IS-9782503547992-1">Envisioning&nbsp;the Bishop:&nbsp;Images and the Episcopacy in the Middle Ages</a>&nbsp;(Brepols, 2014; co-edited&nbsp;with&nbsp;<a href="http://www.brepols.net/Pages/ShowAuthor.aspx?lid=152644" id="ProductDisplay1_crhsBehindTitleEDVZ_rptCRH_ctl01_hplCRH">Sigrid&nbsp;</a><a href="http://www.brepols.net/Pages/ShowAuthor.aspx?lid=152644" target="_blank">Danielson</a>) and <em><a href="https://www.brepols.net/products/IS-9782503617312-1">Episcopal Power and Patronage in the European Middle Ages (998-1503</a>)</em>(Brepols, 2026; co-edited with Angelo Silvestri). Gatti and Daneilson also co-authored&nbsp;<a href="https://www.oxfordbibliographies.com/view/document/obo-9780195396584/obo-9780195396584-0120.xml?rskey=pqyH4Q&amp;result=2&amp;q=medieval italy #firstMatch">Art in Italy</a>&nbsp;for Oxford Bibliographies Online - Medieval Studies (2012).</p>
+
+<p>Gatti has also published book&nbsp;chapters and journal articles, including &ldquo;The Ordo Missae of Warmund of Ivrea: A Bishop&rsquo;s &lsquo;Two Bodies&rsquo; and the Image In Between,&rdquo; <a href="http://www.brepols.net/Pages/ShowProduct.aspx?prod_id=IS-9782503547992-1">Envisioning&nbsp;the Bishop:&nbsp;Images and </a>art history&nbsp;<a href="http://www.brepols.net/Pages/ShowProduct.aspx?prod_id=IS-9782503547992-1"> Episcopacy in the Middle Ages</a>&nbsp;(Brepols, 2014); &quot;A Reliquary Revisited: The St. Servatius Casket and its Contexts,&rdquo;&nbsp;in&nbsp;<em><a href="https://brill.com/display/title/32442?rskey=RdRbs2&amp;result=1">A Companion to the Abbey of Quedlinburg in the Middle Ages</a></em>&nbsp;(Brill Publishers, 2022; co-authored with&nbsp;<a href="https://www.middlebury.edu/academics/harc/faculty/node/235031">Eliza Garrison</a>); and &ldquo;Diplomatic Gestures: Art and Ambivalence among the Italian Episcopacy,&rdquo; in&nbsp;<em><a href="https://www.brepols.net/products/IS-9782503617312-1">Episcopal Power and Patronage in the European Middle Ages (998-1503)</a>&nbsp;</em>(Brepols, 2026); and&nbsp;<strong>&ldquo;</strong>New Crusaders, New Problems: Engaging &lsquo;Crusader&rsquo; Content in Digital Space and the College Classroom&rdquo;, in&nbsp;<a href="https://www.arc-humanities.org/9781802702910/digital-medieval-studiescrusaders-and-computers/"><em>Digital Medieval Studies&mdash;Crusaders and Computers</em></a>&nbsp;(ARC Humanities Press, 2026;&nbsp;first author, with&nbsp;Helen Davies, Kelsey Golden, and Lynn R. Huber).</p>
+
+
+<p>Gatti is one of the founding members of <a href="http://episcopus.org">Episcopus: The Society for the Study of the Bishop and the Secular Clergy in the Middle Ages</a> and <a href="https://videntesmsi.github.io">Videntes: A Multispectral Imaging Collective.</a>&nbsp;</p>
+
 
 Reach us:
-- [On our web site](https://idah.indiana.edu)
-- By email at idah at indiana.edu
+- By email at egatti at elon.edu
