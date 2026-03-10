@@ -1,10 +1,11 @@
+
 ##############################################
-# START YOUR CONFIGURATION HERE! For more info, visit https://community-archive.kalanicraig.com/quickstart
+# START YOUR CONFIGURATION HERE! For more info, visit https://digitalarcplatform.kalanicraig.com/quickstart
 #---------------------
 # THEME. Leave Lines 4-6 alone.
 #---------------------
-remote_theme: kalanicraig/community-archive-jekyll
-repository: 'idahatiu/idahatiu.github.io' # change this to your repository name
+remote_theme: kalanicraig/digitalarcplatform@v1.0.1
+repository: 'https://github.com/eagatti/eagatti.github.io' # change this to your repository name
 
 ##############################################
 # WHAT IS ALL THIS STUFF?
@@ -42,33 +43,33 @@ repository: 'idahatiu/idahatiu.github.io' # change this to your repository name
 #---------------------
 
 # Title of your website
-title: "IDAH@IU"
+title: "Evan A. Gatti"
 
 # Subtitle of your website. Leave blank if you want to.
-subtitle: "An Archive of Our Community's Heirlooms"
+subtitle: "Professor of Art History, Elon University"
 
 # A longer description of your site (max 150 words). Helps search engines find you.
-description: "Community Archiving Site"
+description: "Professional website."
 
 # These credits show up in the includes/_footer.html
 # Main author of the website.
-author: "IDAH@IU"
-authorname : "Institute for Digital Arts and Humanities"
+author: "EvanGatti"
+authorname : "Evan A. Gatti"
 
 # To change the photo on your homepage, open the assets folder in your Github repo, then open the img folder. Upload a photo there. Add only the name of the photo and its extension here. E.g. "alternate_logo.png")
-# Main author of the website.
-sitelogo: "site_logo.jpg"
+sitelogo: "site_logo.png"
+placeholderimg: "placeholder.png"
 
 # What year did you start up this community project?
-sitedate : 2022
+sitedate : 
 
 # Other community social media. Leave blank if you don't have these.
-email : "idah [at] iu.edu"
-website : "https://idah.indiana.edu/"
-twitter : "IDAH_IU"
-github : "idahatiu"
-facebook : "idahatiu"
-instagram : 
+email : "egatti@elon.edu"
+website : ""
+twitter : ""
+github : ""
+facebook : ""
+instagram : ""
 
 # If you need to know how many people visit your site, go to https://analytics.google.com/
 # When you finish the setup assistant, it will give you a Measurement ID: G-ABCDEFGHIJ
@@ -79,7 +80,7 @@ google_g4_analytics_id:
 #---------------------
 
 # Choose the FONTS you'd like to use.
-# You can see these font choices in action at https://community-archive.kalanicraig.com/docs/
+# You can see these font choices in action at https://digitalarcplatform.kalanicraig.com/docs/
 # Uncomment the line for the font you like. Comment out all of the other lines.
 
 #fontchoice: archivonarrow # A narrow sans-serif font for headlines and body text
@@ -87,21 +88,42 @@ google_g4_analytics_id:
 #fontchoice: quattrocento # A modern sans-serif font with classic serif accents
 #fontchoice: raleway # An elegant sans-serif font with bold sans-serif accents
 #fontchoice: roboto # A clean sans-serif font with simple serif accents
-fontchoice: slab # A funky slab font with clean sans-serif accents
+#fontchoice: slab # A funky slab font with clean sans-serif accents
 #fontchoice: source # A modern serif font with clean sans-serif accents
 
+fontchoice: archivonarrow
+
 # Choose the COLORS you'd like to use.
-# You can see these color choices in action at https://community-archive.kalanicraig.com/docs/
+# You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
 # Uncomment the line for the color you like. Comment out all of the other lines.
 
 #colorchoice: navy # Navy with bright teal and grey
 #colorchoice: leafgreen # Leafy green and medium brown
 #colorchoice: tan # Tan and deep brown with flame-bright orange
 #colorchoice: teal # Bright teal with bright orange-yellow accents
-colorchoice: marigold # Near-black with marigold yellow
+#colorchoice: marigold # Near-black with marigold yellow
 #colorchoice: red # Black, crimson and grey
 #colorchoice: lavenderred # Purple-grey with orange-red
 #colorchoice: dusk # Dusky purple and olive green
+#colorchoice: whitewithaccent # White with an accent color (see below)
+
+colorchoice: marigold
+
+# If you chose white with an accent color, choose the ACCENT you'd like to use.
+# You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
+# Uncomment the line for the color you like. Comment out all of the other lines.
+
+accentchoice: accent-darkred # Dark red
+#accentchoice: accent-red # Bright red
+#accentchoice: accent-pink # Deep pink
+#accentchoice: accent-orange # Tangerine Orange
+#accentchoice: accent-brown # Warm brown
+#accentchoice: accent-green # Kelly green
+#accentchoice: accent-navy # Navy blue
+#accentchoice: accent-blue # Medium blue
+#accentchoice: accent-bluegrey # Blue Grey
+#accentchoice: accent-purple # Grape purple
+#accentchoice: accent-grey # Mid Grey
 
 ##############################################
 # ORGANIZING YOUR COLLECTION
@@ -115,6 +137,9 @@ collections:
     contributor: true
     creator: true
     group: true
+  reception:
+    output: true
+    permalink: /:collection/:path:output_ext
 # If your collection items need to be grouped by person, family or some other group, uncomment this collection
 #  groups:
 #    output: true
@@ -139,19 +164,19 @@ collections:
 # MOST OF THESE THINGS DON'T NEED TO BE CHANGED.
 ##############################################
 
-
 # This URL is the main address for absolute links. This will usually be blank.
 url: 
-# If this archive will be in a folder (kalanicraig.com/community-archive/) instead of in its own main site (idahatiu.github.io) add that folder name here. This will usually be blank.
+# If this archive will be in a folder (kalanicraig.com/digitalarcplatform/) instead of in its own main site (digitalarcplatform.github.io) add that folder name here. This will usually be blank. Use a forward slash before the folder name but not after, like so baseurl: '/foldername'
 baseurl: 
 
 # This URL points directly to the images directory. It needs a slash at the end.
 #
-# Example: <img src="{{ site.url }}{{ site.baseurl }}{{ site.urlimg }}{{ post.image.title }}" />
-# Markdown-Example for posts ![Image Text]({{ site.url }}{{ site.baseurl }}{{ site.urlimg }}image.jpg)
+# Example: <img src="https://digitalarcplatform.kalanicraig.com/assets/img/" />
+# Markdown-Example for posts ![Image Text](https://digitalarcplatform.kalanicraig.com/assets/img/image.jpg)
 #
 urlimg: '/assets/img/'
 urlitemimg: '/assets/items/'
+urlreceptionimg: '/assets/reception/'
 permalink: /:categories/:year/:month/:day/:title:output_ext
 
 markdown : kramdown
@@ -174,3 +199,4 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+  
