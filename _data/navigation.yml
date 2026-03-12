@@ -1,12 +1,17 @@
 # Site navigation links
 
-- title: Publications
-  url: /publications
+- title: Our Community
+  url: /
   excerpt:
   image:
 
-- title: Projects
-  url: /projects
+- title: Our Collection
+  url: /collection
+  excerpt:
+  image:
+  
+- title: Publications
+  url: /publications
   excerpt:
   image:
 
