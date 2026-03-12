@@ -1,8 +1,4 @@
 # Site navigation links
-- title: Videntes
-  url: /https://videntesmsi.github.io
-  excerpt:
-  image:
 
 - title: Publications
   url: /publications
@@ -11,5 +7,10 @@
 
 - title: Projects
   url: /projects
+  excerpt:
+  image:
+
+- title: Videntes
+  url: /https://videntesmsi.github.io
   excerpt:
   image:
