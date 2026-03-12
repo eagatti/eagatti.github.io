@@ -1,7 +1,7 @@
 # Site navigation links
 
-- title: Our Community
-  url: /
+- title: Videntes
+  url: /https://videntesmsi.github.io
   excerpt:
   image:
 
@@ -10,7 +10,7 @@
   excerpt:
   image:
 
-- title: Our Stories
-  url: /stories
+- title: Projects
+  url: /projects
   excerpt:
   image:
