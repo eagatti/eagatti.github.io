@@ -1,7 +1,7 @@
 ---
-title: Publications
+title: Scholarship
 layout: collection
-permalink: /publications
+permalink: /scholarship
 ---
 
 {{site.description}}
