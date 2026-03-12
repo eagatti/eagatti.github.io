@@ -1,8 +1,8 @@
 ---
-title: IDAH Community Archiving Template
+title: Evan A. Gatti
 layout: homepage
-permalink: /
-pullquote: "“I have come to believe that the whole world is an enigma, a harmless enigma that is made terrible by our own mad attempt to interpret it as though it had an underlying truth."
+permalink: /https://eagatti.github.io
+pullquote: "I have come to believe that the whole world is an enigma, a harmless enigma that is made terrible by our own mad attempt to interpret it as though it had an underlying truth."
 quoteattribution: "Umberto Eco, Foucault’s Pendulum"
 ---
 <p>Evan A. Gatti is professor of art history at Elon University and coordinator of <a href="https://www.elon.edu/u/academics/arts-and-sciences/history-geography/about-our-department/art-history/">the art history program</a> in the <a href="https://www.elon.edu/u/academics/arts-and-sciences/history-geography/">Department of History and Geography.</a></p>
