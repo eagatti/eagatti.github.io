@@ -1,5 +1,5 @@
 ---
 title: Projects
 layout: stories
-permalink: /projects
+permalink: /collection
 ---
