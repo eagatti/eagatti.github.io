@@ -1,6 +1,7 @@
 ---
 layout: item
-title: "The Rotolo con Atti degli apostoli di Vercelli:Acts of the Apostles and the Arts of Imitation"
+title: "The Rotolo con Atti degli Apostoli di Vercelli: Acts of the Apostles and the Arts of Imitation"
+author: Evan A. Gatti
 externalurl: https://www.brepolsonline.net/content/journals/10.1484/J.IKON.5.128292
 embedurl: 
 creationdate: 2026-03-12
