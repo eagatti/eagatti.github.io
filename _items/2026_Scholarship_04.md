@@ -1,6 +1,7 @@
 ---
 layout: item
 title: "Seeing through Sigebert: A Re-Examination of the Liturgical Portraits of Sigebert of Minden (1022–36),”p"
+author: Evan A. Gatti
 externalurl: https://www.journals.uchicago.edu/doi/abs/10.1086/720747?journalCode=ges
 embedurl: 
 creationdate: 2026-03-12
