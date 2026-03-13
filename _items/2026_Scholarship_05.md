@@ -1,7 +1,7 @@
 ---
 layout: item
 title: "The Rotolo con Atti degli Apostoli di Vercelli: Acts of the Apostles and the Arts of Imitation"
-author: Evan A. Gatti
+author: Evan A. Gatti,Catherine Albers-Morris, Helen Davies, Heather Wacha, and Sivlia Faccin
 externalurl: https://www.brepolsonline.net/content/journals/10.1484/J.IKON.5.128292
 embedurl: 
 creationdate: 2026-03-12
