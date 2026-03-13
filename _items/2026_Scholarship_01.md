@@ -1,6 +1,7 @@
 ---
 layout: item
 title: "Arte Cristiana"
+author: Evan A. Gatti
 externalurl: https://brill.com/display/title/32442?srsltid=AfmBOoqBnmVZ2XvKjXLq-7gEgV5efsP-oVdxy404znvxm2Uo03RIQe3Z
 embedurl: 
 creationdate: 2026-03-12
